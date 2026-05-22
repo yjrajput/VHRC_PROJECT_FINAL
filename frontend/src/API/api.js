@@ -1,7 +1,7 @@
 const isDev = import.meta.env.DEV;
 
-export const API_BASE = import.meta.env.VITE_API_URL || (isDev ? 'http://localhost:5001/api' : '/api');
-export const MEDIA_BASE = import.meta.env.VITE_MEDIA_URL || (isDev ? 'http://localhost:5001' : '');
+export const API_BASE = import.meta.env.VITE_API_URL || (isDev ? 'http://localhost:5001/api' : 'https://vhrc-project-final.onrender.com/api');
+export const MEDIA_BASE = import.meta.env.VITE_MEDIA_URL || (isDev ? 'http://localhost:5001' : 'https://vhrc-project-final.onrender.com');
 
 export const getImageUrl = (path) => {
   if (!path) return '';
