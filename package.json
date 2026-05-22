@@ -1,0 +1,15 @@
+{
+  "name": "vhrc-hospital-fullstack",
+  "version": "1.0.0",
+  "description": "Fullstack deployment configuration for VHRC Hospital",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "build:frontend": "npm run build --prefix frontend",
+    "start": "pm2 start backend/ecosystem.config.cjs --env production",
+    "start:local": "cd backend && NODE_ENV=production node server.js",
+    "deploy": "npm run install:all && npm run build:frontend && npm run start",
+    "stop": "pm2 stop vhrc-backend",
+    "restart": "pm2 restart vhrc-backend",
+    "logs": "pm2 logs vhrc-backend"
+  }
+}

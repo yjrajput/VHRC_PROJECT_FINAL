@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "name": "Emergency Department",
+    "description": "24/7 emergency care with rapid response times and critical care specialists.",
+    "icon": "Activity",
+    "image": "https://images.pexels.com/photos/6753423/pexels-photo-6753423.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "color": "text-red-500 bg-red-50",
+    "stats": {
+      "patients": "50,000+",
+      "response": "< 3 min",
+      "staff": "45",
+      "availability": "24/7"
+    },
+    "services": [
+      "Trauma Care",
+      "Cardiac Emergencies",
+      "Stroke Treatment",
+      "Pediatric Emergency",
+      "Critical Care"
+    ],
+    "facilities": [
+      "Level 1 Trauma Center",
+      "Helicopter Landing Pad",
+      "Advanced Life Support",
+      "Emergency Surgery Suite",
+      "Critical Care Units"
+    ],
+    "contactInfo": {
+      "phone": "(555) 123-4567",
+      "location": "Main Building - Ground Floor",
+      "director": "Dr. Sarah Mitchell"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cardiology Department",
+    "description": "Comprehensive heart care with advanced cardiac procedures and treatments.",
+    "icon": "Heart",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800",
+    "color": "text-red-500 bg-red-50",
+    "stats": {
+      "patients": "15,000+",
+      "response": "Same Day",
+      "staff": "28",
+      "availability": "Mon-Fri"
+    },
+    "services": [
+      "Cardiac Catheterization",
+      "Angioplasty & Stenting",
+      "Pacemaker Implantation",
+      "Heart Surgery",
+      "Cardiac Rehabilitation"
+    ],
+    "facilities": [
+      "Cardiac Catheterization Lab",
+      "Electrophysiology Suite",
+      "Cardiac Surgery OR",
+      "Recovery Units",
+      "Rehabilitation Center"
+    ],
+    "contactInfo": {
+      "phone": "(555) 123-4568",
+      "location": "Heart Center - 3rd Floor",
+      "director": "Dr. Sarah Johnson"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Neurology Department",
+    "description": "Expert brain and nervous system care with cutting-edge technology.",
+    "icon": "Brain",
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800",
+    "color": "text-purple-500 bg-purple-50",
+    "stats": {
+      "patients": "12,000+",
+      "response": "24-48 hrs",
+      "staff": "22",
+      "availability": "Mon-Fri"
+    },
+    "services": [
+      "Brain Surgery",
+      "Stroke Treatment",
+      "Epilepsy Management",
+      "Neuroimaging",
+      "Neurological Rehabilitation"
+    ],
+    "facilities": [
+      "MRI & CT Scanners",
+      "Neurosurgical Suites",
+      "Epilepsy Monitoring Unit",
+      "Stroke Unit",
+      "Neuro ICU"
+    ],
+    "contactInfo": {
+      "phone": "(555) 123-4569",
+      "location": "Neuroscience Center - 4th Floor",
+      "director": "Dr. Michael Chen"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Pediatrics Department",
+    "description": "Specialized healthcare for infants, children, and adolescents.",
+    "icon": "Baby",
+    "image": "https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=800",
+    "color": "text-pink-500 bg-pink-50",
+    "stats": {
+      "patients": "25,000+",
+      "response": "Same Day",
+      "staff": "35",
+      "availability": "24/7"
+    },
+    "services": [
+      "Well-Child Visits",
+      "Vaccinations",
+      "Developmental Assessments",
+      "Pediatric Surgery",
+      "Adolescent Medicine"
+    ],
+    "facilities": [
+      "Pediatric Emergency Room",
+      "NICU & PICU",
+      "Children's Surgery Suites",
+      "Play Therapy Rooms",
+      "Family Support Areas"
+    ],
+    "contactInfo": {
+      "phone": "(555) 123-4570",
+      "location": "Children's Wing - 2nd Floor",
+      "director": "Dr. Emily Rodriguez"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Orthopedics Department",
+    "description": "Advanced bone, joint, and muscle care with minimally invasive techniques.",
+    "icon": "Bone",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800",
+    "color": "text-orange-500 bg-orange-50",
+    "stats": {
+      "patients": "18,000+",
+      "response": "1-2 weeks",
+      "staff": "30",
+      "availability": "Mon-Fri"
+    },
+    "services": [
+      "Joint Replacement",
+      "Sports Medicine",
+      "Trauma Surgery",
+      "Spine Surgery",
+      "Physical Therapy"
+    ],
+    "facilities": [
+      "Robotic Surgery Suite",
+      "Sports Medicine Center",
+      "Physical Therapy Gym",
+      "Imaging Center",
+      "Recovery Suites"
+    ],
+    "contactInfo": {
+      "phone": "(555) 123-4571",
+      "location": "Orthopedic Center - 5th Floor",
+      "director": "Dr. James Wilson"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Ophthalmology Department",
+    "description": "Complete eye care services from routine exams to complex surgeries.",
+    "icon": "Eye",
+    "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=800",
+    "color": "text-blue-500 bg-blue-50",
+    "stats": {
+      "patients": "8,000+",
+      "response": "1 week",
+      "staff": "15",
+      "availability": "Mon-Fri"
+    },
+    "services": [
+      "Cataract Surgery",
+      "LASIK Surgery",
+      "Retinal Surgery",
+      "Glaucoma Treatment",
+      "Pediatric Eye Care"
+    ],
+    "facilities": [
+      "LASIK Surgery Suite",
+      "Retinal Imaging Center",
+      "Optical Shop",
+      "Low Vision Clinic",
+      "Pediatric Eye Center"
+    ],
+    "contactInfo": {
+      "phone": "(555) 123-4572",
+      "location": "Eye Center - 1st Floor",
+      "director": "Dr. Lisa Park"
+    }
+  }
+]

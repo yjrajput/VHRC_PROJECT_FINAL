@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Johnson",
+    "specialty": "Cardiologist",
+    "image": "https://images.unsplash.com/photo-1576669801945-7a346954da5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBkb2N0b3IlMjBoZWFsdGhjYXJlJTIwcHJvZmVzc2lvbmFsfGVufDF8fHx8MTc1NzIxMDQ4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "experience": "15+ years",
+    "rating": 4.9,
+    "reviews": 324,
+    "education": "Harvard Medical School",
+    "specialties": [
+      "Heart Surgery",
+      "Interventional Cardiology",
+      "Preventive Care"
+    ],
+    "location": "Main Campus",
+    "availability": "Mon-Fri",
+    "department": "Cardiology",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "certifications": [
+      "Board Certified Cardiologist",
+      "Fellow of American College of Cardiology"
+    ],
+    "bio": "Dr. Johnson is a leading cardiologist with over 15 years of experience in interventional cardiology and heart surgery. She specializes in minimally invasive procedures and has performed over 2,000 successful cardiac interventions."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Michael Chen",
+    "specialty": "Neurologist",
+    "image": "https://images.unsplash.com/photo-1612943733919-f9661f1331f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYWxlJTIwZG9jdG9yJTIwc3RldGhvc2NvcGUlMjBtZWRpY2FsfGVufDF8fHx8MTc1NzMxMTI1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "experience": "12+ years",
+    "rating": 4.8,
+    "reviews": 256,
+    "education": "Johns Hopkins University",
+    "specialties": [
+      "Brain Surgery",
+      "Stroke Treatment",
+      "Epilepsy Care"
+    ],
+    "location": "Neurology Center",
+    "availability": "Mon-Thu",
+    "department": "Neurology",
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "certifications": [
+      "Board Certified Neurologist",
+      "Stroke Specialist Certification"
+    ],
+    "bio": "Dr. Chen is an expert neurologist specializing in stroke care and brain surgery. He has pioneered several minimally invasive techniques and leads our comprehensive stroke center."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Rodriguez",
+    "specialty": "Pediatrician",
+    "image": "https://images.unsplash.com/photo-1666886573230-2b730505f298?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkb2N0b3IlMjBtZWRpY2FsJTIwcHJvZmVzc2lvbmFsfGVufDF8fHx8MTc1NzIzMTY0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "experience": "10+ years",
+    "rating": 4.9,
+    "reviews": 428,
+    "education": "Stanford Medical School",
+    "specialties": [
+      "Child Development",
+      "Vaccinations",
+      "Adolescent Care"
+    ],
+    "location": "Children's Wing",
+    "availability": "Tue-Sat",
+    "department": "Pediatrics",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "certifications": [
+      "Board Certified Pediatrician",
+      "Adolescent Medicine Specialist"
+    ],
+    "bio": "Dr. Rodriguez is dedicated to providing comprehensive care for children from infancy through adolescence. She has a special interest in developmental pediatrics and preventive care."
+  },
+  {
+    "id": 4,
+    "name": "Dr. James Wilson",
+    "specialty": "Orthopedic Surgeon",
+    "image": "https://images.unsplash.com/photo-1562673462-877b3612cbea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxudXJzZSUyMGhlYWx0aGNhcmUlMjBwcm9mZXNzaW9uYWx8ZW58MXx8fHwxNzU3MzExMjU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "experience": "18+ years",
+    "rating": 4.8,
+    "reviews": 189,
+    "education": "Mayo Clinic",
+    "specialties": [
+      "Joint Replacement",
+      "Sports Medicine",
+      "Trauma Surgery"
+    ],
+    "location": "Orthopedic Center",
+    "availability": "Mon-Fri",
+    "department": "Orthopedics",
+    "languages": [
+      "English"
+    ],
+    "certifications": [
+      "Board Certified Orthopedic Surgeon",
+      "Sports Medicine Fellowship"
+    ],
+    "bio": "Dr. Wilson is a highly experienced orthopedic surgeon specializing in joint replacement and sports medicine. He has helped thousands of patients return to active lifestyles."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Lisa Park",
+    "specialty": "Ophthalmologist",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800",
+    "experience": "14+ years",
+    "rating": 4.9,
+    "reviews": 298,
+    "education": "University of California, San Francisco",
+    "specialties": [
+      "Cataract Surgery",
+      "LASIK",
+      "Retinal Disorders"
+    ],
+    "location": "Eye Center",
+    "availability": "Mon-Wed-Fri",
+    "department": "Ophthalmology",
+    "languages": [
+      "English",
+      "Korean"
+    ],
+    "certifications": [
+      "Board Certified Ophthalmologist",
+      "Retinal Surgery Specialist"
+    ],
+    "bio": "Dr. Park is a skilled ophthalmologist with expertise in advanced eye surgeries including LASIK and complex retinal procedures. She has restored vision for thousands of patients."
+  },
+  {
+    "id": 6,
+    "name": "Dr. Robert Thompson",
+    "specialty": "Internal Medicine",
+    "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=800",
+    "experience": "20+ years",
+    "rating": 4.7,
+    "reviews": 445,
+    "education": "University of Pennsylvania",
+    "specialties": [
+      "Diabetes Care",
+      "Hypertension",
+      "Preventive Medicine"
+    ],
+    "location": "Main Campus",
+    "availability": "Mon-Fri",
+    "department": "Internal Medicine",
+    "languages": [
+      "English"
+    ],
+    "certifications": [
+      "Board Certified Internal Medicine",
+      "Diabetes Specialist"
+    ],
+    "bio": "Dr. Thompson is a seasoned internist focused on comprehensive adult care, with particular expertise in managing chronic conditions and preventive medicine."
+  }
+]

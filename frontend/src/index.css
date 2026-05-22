@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+:root {
+      --vhrc-navy: #193151;
+      --vhrc-blue: #184778;
+      --vhrc-red: #D74552;
+      --vhrc-bg: #F4F7FB;
+      --vhrc-white: #FFFFFF;
+      --vhrc-border: #DDE4EE;
+      --vhrc-text: #3D4F68;
+      --vhrc-gray: #6B7A90;
+      --vhrc-green: #1A7A3F;
+      --font-en: 'Poppins', sans-serif;
+      --font-hi: 'Tiro Devanagari Hindi', serif;
+      --radius-btn: 6px;
+      --radius-card: 12px;
+      --max-width: 1200px;
+    }
+
+
+     /* ============================================================
+   TICKER
+   ============================================================ */
+    .ticker-bar {
+      background: var(--vhrc-blue);
+      padding: 8px 0;
+      overflow: hidden;
+    }
+
+    .ticker-inner {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .ticker-label {
+      background: var(--vhrc-red);
+      color: #fff;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 3px 12px;
+      border-radius: 20px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .ticker-track {
+      overflow: hidden;
+      flex: 1;
+    }
+
+    .ticker-content {
+      display: inline-block;
+      white-space: nowrap;
+      animation: ticker 30s linear infinite;
+      font-size: 12px;
+      color: rgba(255, 255, 255, 0.8);
+    }
+
+    @keyframes ticker {
+      0% {
+        transform: translateX(100%);
+      }
+
+      100% {
+        transform: translateX(-100%);
+      }
+    }
+
+    .ticker-content span {
+      margin: 0 32px;
+    }
+
+    .ticker-content span::before {
+      content: '◆';
+      color: var(--vhrc-red);
+      margin-right: 10px;
+      font-size: 8px;
+    }
+

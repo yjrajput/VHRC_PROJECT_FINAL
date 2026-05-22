@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Cardiology",
+    "description": "Comprehensive heart care with advanced cardiac procedures and treatments.",
+    "icon": "Heart",
+    "color": "text-red-500 bg-red-50",
+    "hoverColor": "group-hover:bg-red-500 group-hover:text-white"
+  },
+  {
+    "id": 2,
+    "title": "Neurology",
+    "description": "Expert brain and nervous system care with cutting-edge technology.",
+    "icon": "Brain",
+    "color": "text-purple-500 bg-purple-50",
+    "hoverColor": "group-hover:bg-purple-500 group-hover:text-white"
+  },
+  {
+    "id": 3,
+    "title": "Ophthalmology",
+    "description": "Complete eye care services from routine exams to complex surgeries.",
+    "icon": "Eye",
+    "color": "text-blue-500 bg-blue-50",
+    "hoverColor": "group-hover:bg-blue-500 group-hover:text-white"
+  },
+  {
+    "id": 4,
+    "title": "Pediatrics",
+    "description": "Specialized healthcare for infants, children, and adolescents.",
+    "icon": "Baby",
+    "color": "text-pink-500 bg-pink-50",
+    "hoverColor": "group-hover:bg-pink-500 group-hover:text-white"
+  },
+  {
+    "id": 5,
+    "title": "Orthopedics",
+    "description": "Advanced bone, joint, and muscle care with minimally invasive techniques.",
+    "icon": "Bone",
+    "color": "text-orange-500 bg-orange-50",
+    "hoverColor": "group-hover:bg-orange-500 group-hover:text-white"
+  },
+  {
+    "id": 6,
+    "title": "Internal Medicine",
+    "description": "Comprehensive primary care for adult patients with complex conditions.",
+    "icon": "Stethoscope",
+    "color": "text-green-500 bg-green-50",
+    "hoverColor": "group-hover:bg-green-500 group-hover:text-white"
+  },
+  {
+    "id": 7,
+    "title": "Emergency Care",
+    "description": "24/7 emergency services with rapid response and critical care.",
+    "icon": "Activity",
+    "color": "text-red-600 bg-red-50",
+    "hoverColor": "group-hover:bg-red-600 group-hover:text-white"
+  },
+  {
+    "id": 8,
+    "title": "Pharmacy",
+    "description": "Full-service pharmacy with prescription management and counseling.",
+    "icon": "Pill",
+    "color": "text-indigo-500 bg-indigo-50",
+    "hoverColor": "group-hover:bg-indigo-500 group-hover:text-white"
+  }
+]
